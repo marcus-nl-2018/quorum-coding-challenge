@@ -21,7 +21,7 @@ quorum-coding-challenge/\
 ### 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/marcus-nl-2018/quorum-coding-challenge.git
 cd quorum-coding-challenge
 ```
 
